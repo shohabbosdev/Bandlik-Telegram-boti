@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+gspread-asyncio==2.0.0
+cachetools==5.3.3
+matplotlib==3.8.2
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+environs==9.5.0
+pandas==2.2.2
+openpyxl==3.1.2
